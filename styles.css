@@ -1,0 +1,24 @@
+.timer {
+  display: flex;
+  justify-content: center;
+  color: rgb(18, 33, 240);
+}
+.field {
+  display: block;
+}
+.value {
+  margin-bottom: 15px;
+  font-family: "Impact", sans-serif;
+  font-size: 100px;
+}
+.field {
+  display: block;
+}
+.label {
+  display: block;
+  text-align: center;
+  font-family: "Impact", sans-serif;
+  font-size: 30px;
+  font-weight: 500;
+  margin-right: 30px;
+}
